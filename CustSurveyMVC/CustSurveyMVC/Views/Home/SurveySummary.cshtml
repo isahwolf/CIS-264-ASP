@@ -1,0 +1,9 @@
+﻿
+    <h2>Survey Summary</h2>
+    Total respondents: @Model.Count
+    <hr>
+    <table>
+        <partial name="_SummaryTable" model="@Model" />
+    </table>
+    <hr />
+    (4=Completely Satisfied, 1=Not Satisfied, 0=No opinion)

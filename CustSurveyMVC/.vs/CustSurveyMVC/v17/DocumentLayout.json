@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Class Work\\ASP\\CustSurveyMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4120D31-55AB-4B10-8A39-A72F86A79CEF}|CustSurveyMVC\\CustSurveyMVC.csproj|d:\\class work\\asp\\custsurveymvc\\custsurveymvc\\views\\home\\surveysummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4120D31-55AB-4B10-8A39-A72F86A79CEF}|CustSurveyMVC\\CustSurveyMVC.csproj|solutionrelative:custsurveymvc\\views\\home\\surveysummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4120D31-55AB-4B10-8A39-A72F86A79CEF}|CustSurveyMVC\\CustSurveyMVC.csproj|d:\\class work\\asp\\custsurveymvc\\custsurveymvc\\views\\shared\\_summarytable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4120D31-55AB-4B10-8A39-A72F86A79CEF}|CustSurveyMVC\\CustSurveyMVC.csproj|solutionrelative:custsurveymvc\\views\\shared\\_summarytable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4120D31-55AB-4B10-8A39-A72F86A79CEF}|CustSurveyMVC\\CustSurveyMVC.csproj|d:\\class work\\asp\\custsurveymvc\\custsurveymvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4120D31-55AB-4B10-8A39-A72F86A79CEF}|CustSurveyMVC\\CustSurveyMVC.csproj|solutionrelative:custsurveymvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4120D31-55AB-4B10-8A39-A72F86A79CEF}|CustSurveyMVC\\CustSurveyMVC.csproj|d:\\class work\\asp\\custsurveymvc\\custsurveymvc\\views\\home\\surveyresponse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4120D31-55AB-4B10-8A39-A72F86A79CEF}|CustSurveyMVC\\CustSurveyMVC.csproj|solutionrelative:custsurveymvc\\views\\home\\surveyresponse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4120D31-55AB-4B10-8A39-A72F86A79CEF}|CustSurveyMVC\\CustSurveyMVC.csproj|d:\\class work\\asp\\custsurveymvc\\custsurveymvc\\models\\customersurveyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4120D31-55AB-4B10-8A39-A72F86A79CEF}|CustSurveyMVC\\CustSurveyMVC.csproj|solutionrelative:custsurveymvc\\models\\customersurveyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4120D31-55AB-4B10-8A39-A72F86A79CEF}|CustSurveyMVC\\CustSurveyMVC.csproj|d:\\class work\\asp\\custsurveymvc\\custsurveymvc\\views\\home\\customersurvey.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4120D31-55AB-4B10-8A39-A72F86A79CEF}|CustSurveyMVC\\CustSurveyMVC.csproj|solutionrelative:custsurveymvc\\views\\home\\customersurvey.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4120D31-55AB-4B10-8A39-A72F86A79CEF}|CustSurveyMVC\\CustSurveyMVC.csproj|d:\\class work\\asp\\custsurveymvc\\custsurveymvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4120D31-55AB-4B10-8A39-A72F86A79CEF}|CustSurveyMVC\\CustSurveyMVC.csproj|solutionrelative:custsurveymvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4120D31-55AB-4B10-8A39-A72F86A79CEF}|CustSurveyMVC\\CustSurveyMVC.csproj|d:\\class work\\asp\\custsurveymvc\\custsurveymvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4120D31-55AB-4B10-8A39-A72F86A79CEF}|CustSurveyMVC\\CustSurveyMVC.csproj|solutionrelative:custsurveymvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4120D31-55AB-4B10-8A39-A72F86A79CEF}|CustSurveyMVC\\CustSurveyMVC.csproj|d:\\class work\\asp\\custsurveymvc\\custsurveymvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4120D31-55AB-4B10-8A39-A72F86A79CEF}|CustSurveyMVC\\CustSurveyMVC.csproj|solutionrelative:custsurveymvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4120D31-55AB-4B10-8A39-A72F86A79CEF}|CustSurveyMVC\\CustSurveyMVC.csproj|d:\\class work\\asp\\custsurveymvc\\custsurveymvc\\models\\techsupportcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4120D31-55AB-4B10-8A39-A72F86A79CEF}|CustSurveyMVC\\CustSurveyMVC.csproj|solutionrelative:custsurveymvc\\models\\techsupportcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_SummaryTable.cshtml",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\CustSurveyMVC\\CustSurveyMVC\\Views\\Shared\\_SummaryTable.cshtml",
+              "RelativeDocumentMoniker": "CustSurveyMVC\\Views\\Shared\\_SummaryTable.cshtml",
+              "ToolTip": "D:\\Class Work\\ASP\\CustSurveyMVC\\CustSurveyMVC\\Views\\Shared\\_SummaryTable.cshtml",
+              "RelativeToolTip": "CustSurveyMVC\\Views\\Shared\\_SummaryTable.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T22:46:45.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\CustSurveyMVC\\CustSurveyMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CustSurveyMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Class Work\\ASP\\CustSurveyMVC\\CustSurveyMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CustSurveyMVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T22:41:21.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\CustSurveyMVC\\CustSurveyMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CustSurveyMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Class Work\\ASP\\CustSurveyMVC\\CustSurveyMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CustSurveyMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T22:38:27.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerSurveyViewModel.cs",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\CustSurveyMVC\\CustSurveyMVC\\Models\\CustomerSurveyViewModel.cs",
+              "RelativeDocumentMoniker": "CustSurveyMVC\\Models\\CustomerSurveyViewModel.cs",
+              "ToolTip": "D:\\Class Work\\ASP\\CustSurveyMVC\\CustSurveyMVC\\Models\\CustomerSurveyViewModel.cs",
+              "RelativeToolTip": "CustSurveyMVC\\Models\\CustomerSurveyViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T22:02:00.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SurveySummary.cshtml",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\CustSurveyMVC\\CustSurveyMVC\\Views\\Home\\SurveySummary.cshtml",
+              "RelativeDocumentMoniker": "CustSurveyMVC\\Views\\Home\\SurveySummary.cshtml",
+              "ToolTip": "D:\\Class Work\\ASP\\CustSurveyMVC\\CustSurveyMVC\\Views\\Home\\SurveySummary.cshtml",
+              "RelativeToolTip": "CustSurveyMVC\\Views\\Home\\SurveySummary.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T21:35:19.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SurveyResponse.cshtml",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\CustSurveyMVC\\CustSurveyMVC\\Views\\Home\\SurveyResponse.cshtml",
+              "RelativeDocumentMoniker": "CustSurveyMVC\\Views\\Home\\SurveyResponse.cshtml",
+              "ToolTip": "D:\\Class Work\\ASP\\CustSurveyMVC\\CustSurveyMVC\\Views\\Home\\SurveyResponse.cshtml",
+              "RelativeToolTip": "CustSurveyMVC\\Views\\Home\\SurveyResponse.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T21:35:19.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TechSupportContext.cs",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\CustSurveyMVC\\CustSurveyMVC\\Models\\TechSupportContext.cs",
+              "RelativeDocumentMoniker": "CustSurveyMVC\\Models\\TechSupportContext.cs",
+              "ToolTip": "D:\\Class Work\\ASP\\CustSurveyMVC\\CustSurveyMVC\\Models\\TechSupportContext.cs",
+              "RelativeToolTip": "CustSurveyMVC\\Models\\TechSupportContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:38:20.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\CustSurveyMVC\\CustSurveyMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CustSurveyMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Class Work\\ASP\\CustSurveyMVC\\CustSurveyMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CustSurveyMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:35:19.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\CustSurveyMVC\\CustSurveyMVC\\Program.cs",
+              "RelativeDocumentMoniker": "CustSurveyMVC\\Program.cs",
+              "ToolTip": "D:\\Class Work\\ASP\\CustSurveyMVC\\CustSurveyMVC\\Program.cs",
+              "RelativeToolTip": "CustSurveyMVC\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:35:19.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerSurvey.cshtml",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\CustSurveyMVC\\CustSurveyMVC\\Views\\Home\\CustomerSurvey.cshtml",
+              "RelativeDocumentMoniker": "CustSurveyMVC\\Views\\Home\\CustomerSurvey.cshtml",
+              "ToolTip": "D:\\Class Work\\ASP\\CustSurveyMVC\\CustSurveyMVC\\Views\\Home\\CustomerSurvey.cshtml",
+              "RelativeToolTip": "CustSurveyMVC\\Views\\Home\\CustomerSurvey.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T21:35:19.66Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

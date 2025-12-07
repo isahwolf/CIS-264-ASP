@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Class Work\\ASP\\MovieApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0B7127-09A8-496D-BFC2-EAEB7FD34FCA}|MovieApp\\MovieApp.csproj|d:\\class work\\asp\\movieapp\\movieapp\\models\\movieappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0B7127-09A8-496D-BFC2-EAEB7FD34FCA}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\models\\movieappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0B7127-09A8-496D-BFC2-EAEB7FD34FCA}|MovieApp\\MovieApp.csproj|d:\\class work\\asp\\movieapp\\movieapp\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0B7127-09A8-496D-BFC2-EAEB7FD34FCA}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0B7127-09A8-496D-BFC2-EAEB7FD34FCA}|MovieApp\\MovieApp.csproj|d:\\class work\\asp\\movieapp\\movieapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF0B7127-09A8-496D-BFC2-EAEB7FD34FCA}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0B7127-09A8-496D-BFC2-EAEB7FD34FCA}|MovieApp\\MovieApp.csproj|d:\\class work\\asp\\movieapp\\movieapp\\movieapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EF0B7127-09A8-496D-BFC2-EAEB7FD34FCA}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\movieapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0B7127-09A8-496D-BFC2-EAEB7FD34FCA}|MovieApp\\MovieApp.csproj|d:\\class work\\asp\\movieapp\\movieapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0B7127-09A8-496D-BFC2-EAEB7FD34FCA}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0B7127-09A8-496D-BFC2-EAEB7FD34FCA}|MovieApp\\MovieApp.csproj|d:\\class work\\asp\\movieapp\\movieapp\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0B7127-09A8-496D-BFC2-EAEB7FD34FCA}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0B7127-09A8-496D-BFC2-EAEB7FD34FCA}|MovieApp\\MovieApp.csproj|d:\\class work\\asp\\movieapp\\movieapp\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF0B7127-09A8-496D-BFC2-EAEB7FD34FCA}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0B7127-09A8-496D-BFC2-EAEB7FD34FCA}|MovieApp\\MovieApp.csproj|d:\\class work\\asp\\movieapp\\movieapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF0B7127-09A8-496D-BFC2-EAEB7FD34FCA}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0B7127-09A8-496D-BFC2-EAEB7FD34FCA}|MovieApp\\MovieApp.csproj|d:\\class work\\asp\\movieapp\\movieapp\\models\\listviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0B7127-09A8-496D-BFC2-EAEB7FD34FCA}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\models\\listviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0B7127-09A8-496D-BFC2-EAEB7FD34FCA}|MovieApp\\MovieApp.csproj|d:\\class work\\asp\\movieapp\\movieapp\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF0B7127-09A8-496D-BFC2-EAEB7FD34FCA}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 115,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieApp",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\MovieApp\\MovieApp\\MovieApp.csproj",
+              "RelativeDocumentMoniker": "MovieApp\\MovieApp.csproj",
+              "ToolTip": "D:\\Class Work\\ASP\\MovieApp\\MovieApp\\MovieApp.csproj",
+              "RelativeToolTip": "MovieApp\\MovieApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-11T16:58:41.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListViewModel.cs",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\MovieApp\\MovieApp\\Models\\ListViewModel.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Models\\ListViewModel.cs",
+              "ToolTip": "D:\\Class Work\\ASP\\MovieApp\\MovieApp\\Models\\ListViewModel.cs",
+              "RelativeToolTip": "MovieApp\\Models\\ListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T21:25:02.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\MovieApp\\MovieApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MovieApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Class Work\\ASP\\MovieApp\\MovieApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MovieApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T18:18:01.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieAppContext.cs",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\MovieApp\\MovieApp\\Models\\MovieAppContext.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Models\\MovieAppContext.cs",
+              "ToolTip": "D:\\Class Work\\ASP\\MovieApp\\MovieApp\\Models\\MovieAppContext.cs",
+              "RelativeToolTip": "MovieApp\\Models\\MovieAppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T17:52:01.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\MovieApp\\MovieApp\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Models\\SeedData.cs",
+              "ToolTip": "D:\\Class Work\\ASP\\MovieApp\\MovieApp\\Models\\SeedData.cs",
+              "RelativeToolTip": "MovieApp\\Models\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T17:48:15.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\MovieApp\\MovieApp\\Views\\Movie\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MovieApp\\Views\\Movie\\Edit.cshtml",
+              "ToolTip": "D:\\Class Work\\ASP\\MovieApp\\MovieApp\\Views\\Movie\\Edit.cshtml",
+              "RelativeToolTip": "MovieApp\\Views\\Movie\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T17:47:14.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\MovieApp\\MovieApp\\Views\\Movie\\Index.cshtml",
+              "RelativeDocumentMoniker": "MovieApp\\Views\\Movie\\Index.cshtml",
+              "ToolTip": "D:\\Class Work\\ASP\\MovieApp\\MovieApp\\Views\\Movie\\Index.cshtml",
+              "RelativeToolTip": "MovieApp\\Views\\Movie\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T17:46:11.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\MovieApp\\MovieApp\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Controllers\\MovieController.cs",
+              "ToolTip": "D:\\Class Work\\ASP\\MovieApp\\MovieApp\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "MovieApp\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T17:43:14.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\MovieApp\\MovieApp\\Program.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Program.cs",
+              "ToolTip": "D:\\Class Work\\ASP\\MovieApp\\MovieApp\\Program.cs",
+              "RelativeToolTip": "MovieApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T17:42:39.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\MovieApp\\MovieApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MovieApp\\appsettings.json",
+              "ToolTip": "D:\\Class Work\\ASP\\MovieApp\\MovieApp\\appsettings.json",
+              "RelativeToolTip": "MovieApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-27T17:42:27.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

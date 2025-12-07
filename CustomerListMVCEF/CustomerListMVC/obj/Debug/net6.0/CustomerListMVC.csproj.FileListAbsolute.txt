@@ -1,0 +1,92 @@
+C:\Users\timbr\OneDrive - swic.edu\264\1232\working\week10\CustomerListMVC\CustomerListMVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\timbr\OneDrive - swic.edu\264\1232\working\week10\CustomerListMVC\CustomerListMVC\bin\Debug\net6.0\appsettings.json
+C:\Users\timbr\OneDrive - swic.edu\264\1232\working\week10\CustomerListMVC\CustomerListMVC\bin\Debug\net6.0\CustomerListMVC.staticwebassets.runtime.json
+C:\Users\timbr\OneDrive - swic.edu\264\1232\working\week10\CustomerListMVC\CustomerListMVC\bin\Debug\net6.0\CustomerListMVC.exe
+C:\Users\timbr\OneDrive - swic.edu\264\1232\working\week10\CustomerListMVC\CustomerListMVC\bin\Debug\net6.0\CustomerListMVC.deps.json
+C:\Users\timbr\OneDrive - swic.edu\264\1232\working\week10\CustomerListMVC\CustomerListMVC\bin\Debug\net6.0\CustomerListMVC.runtimeconfig.json
+C:\Users\timbr\OneDrive - swic.edu\264\1232\working\week10\CustomerListMVC\CustomerListMVC\bin\Debug\net6.0\CustomerListMVC.dll
+C:\Users\timbr\OneDrive - swic.edu\264\1232\working\week10\CustomerListMVC\CustomerListMVC\bin\Debug\net6.0\CustomerListMVC.pdb
+C:\Users\timbr\OneDrive - swic.edu\264\1232\working\week10\CustomerListMVC\CustomerListMVC\obj\Debug\net6.0\CustomerListMVC.csproj.AssemblyReference.cache
+C:\Users\timbr\OneDrive - swic.edu\264\1232\working\week10\CustomerListMVC\CustomerListMVC\obj\Debug\net6.0\CustomerListMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timbr\OneDrive - swic.edu\264\1232\working\week10\CustomerListMVC\CustomerListMVC\obj\Debug\net6.0\CustomerListMVC.AssemblyInfoInputs.cache
+C:\Users\timbr\OneDrive - swic.edu\264\1232\working\week10\CustomerListMVC\CustomerListMVC\obj\Debug\net6.0\CustomerListMVC.AssemblyInfo.cs
+C:\Users\timbr\OneDrive - swic.edu\264\1232\working\week10\CustomerListMVC\CustomerListMVC\obj\Debug\net6.0\CustomerListMVC.csproj.CoreCompileInputs.cache
+C:\Users\timbr\OneDrive - swic.edu\264\1232\working\week10\CustomerListMVC\CustomerListMVC\obj\Debug\net6.0\CustomerListMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\timbr\OneDrive - swic.edu\264\1232\working\week10\CustomerListMVC\CustomerListMVC\obj\Debug\net6.0\CustomerListMVC.RazorAssemblyInfo.cache
+C:\Users\timbr\OneDrive - swic.edu\264\1232\working\week10\CustomerListMVC\CustomerListMVC\obj\Debug\net6.0\CustomerListMVC.RazorAssemblyInfo.cs
+C:\Users\timbr\OneDrive - swic.edu\264\1232\working\week10\CustomerListMVC\CustomerListMVC\obj\Debug\net6.0\staticwebassets\msbuild.CustomerListMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\timbr\OneDrive - swic.edu\264\1232\working\week10\CustomerListMVC\CustomerListMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.CustomerListMVC.props
+C:\Users\timbr\OneDrive - swic.edu\264\1232\working\week10\CustomerListMVC\CustomerListMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CustomerListMVC.props
+C:\Users\timbr\OneDrive - swic.edu\264\1232\working\week10\CustomerListMVC\CustomerListMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CustomerListMVC.props
+C:\Users\timbr\OneDrive - swic.edu\264\1232\working\week10\CustomerListMVC\CustomerListMVC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\timbr\OneDrive - swic.edu\264\1232\working\week10\CustomerListMVC\CustomerListMVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\timbr\OneDrive - swic.edu\264\1232\working\week10\CustomerListMVC\CustomerListMVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\timbr\OneDrive - swic.edu\264\1232\working\week10\CustomerListMVC\CustomerListMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\timbr\OneDrive - swic.edu\264\1232\working\week10\CustomerListMVC\CustomerListMVC\obj\Debug\net6.0\scopedcss\bundle\CustomerListMVC.styles.css
+C:\Users\timbr\OneDrive - swic.edu\264\1232\working\week10\CustomerListMVC\CustomerListMVC\obj\Debug\net6.0\scopedcss\projectbundle\CustomerListMVC.bundle.scp.css
+C:\Users\timbr\OneDrive - swic.edu\264\1232\working\week10\CustomerListMVC\CustomerListMVC\obj\Debug\net6.0\CustomerListMVC.dll
+C:\Users\timbr\OneDrive - swic.edu\264\1232\working\week10\CustomerListMVC\CustomerListMVC\obj\Debug\net6.0\refint\CustomerListMVC.dll
+C:\Users\timbr\OneDrive - swic.edu\264\1232\working\week10\CustomerListMVC\CustomerListMVC\obj\Debug\net6.0\CustomerListMVC.pdb
+C:\Users\timbr\OneDrive - swic.edu\264\1232\working\week10\CustomerListMVC\CustomerListMVC\obj\Debug\net6.0\CustomerListMVC.genruntimeconfig.cache
+C:\Users\timbr\OneDrive - swic.edu\264\1232\working\week10\CustomerListMVC\CustomerListMVC\obj\Debug\net6.0\ref\CustomerListMVC.dll
+C:\Users\timbr\OneDrive - swic.edu\264\ExerciseSolutions\CustomerListMVC_simple_1232\CustomerListMVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\timbr\OneDrive - swic.edu\264\ExerciseSolutions\CustomerListMVC_simple_1232\CustomerListMVC\bin\Debug\net6.0\appsettings.json
+C:\Users\timbr\OneDrive - swic.edu\264\ExerciseSolutions\CustomerListMVC_simple_1232\CustomerListMVC\bin\Debug\net6.0\CustomerListMVC.staticwebassets.runtime.json
+C:\Users\timbr\OneDrive - swic.edu\264\ExerciseSolutions\CustomerListMVC_simple_1232\CustomerListMVC\bin\Debug\net6.0\CustomerListMVC.exe
+C:\Users\timbr\OneDrive - swic.edu\264\ExerciseSolutions\CustomerListMVC_simple_1232\CustomerListMVC\bin\Debug\net6.0\CustomerListMVC.deps.json
+C:\Users\timbr\OneDrive - swic.edu\264\ExerciseSolutions\CustomerListMVC_simple_1232\CustomerListMVC\bin\Debug\net6.0\CustomerListMVC.runtimeconfig.json
+C:\Users\timbr\OneDrive - swic.edu\264\ExerciseSolutions\CustomerListMVC_simple_1232\CustomerListMVC\bin\Debug\net6.0\CustomerListMVC.dll
+C:\Users\timbr\OneDrive - swic.edu\264\ExerciseSolutions\CustomerListMVC_simple_1232\CustomerListMVC\bin\Debug\net6.0\CustomerListMVC.pdb
+C:\Users\timbr\OneDrive - swic.edu\264\ExerciseSolutions\CustomerListMVC_simple_1232\CustomerListMVC\obj\Debug\net6.0\CustomerListMVC.csproj.AssemblyReference.cache
+C:\Users\timbr\OneDrive - swic.edu\264\ExerciseSolutions\CustomerListMVC_simple_1232\CustomerListMVC\obj\Debug\net6.0\CustomerListMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timbr\OneDrive - swic.edu\264\ExerciseSolutions\CustomerListMVC_simple_1232\CustomerListMVC\obj\Debug\net6.0\CustomerListMVC.AssemblyInfoInputs.cache
+C:\Users\timbr\OneDrive - swic.edu\264\ExerciseSolutions\CustomerListMVC_simple_1232\CustomerListMVC\obj\Debug\net6.0\CustomerListMVC.AssemblyInfo.cs
+C:\Users\timbr\OneDrive - swic.edu\264\ExerciseSolutions\CustomerListMVC_simple_1232\CustomerListMVC\obj\Debug\net6.0\CustomerListMVC.csproj.CoreCompileInputs.cache
+C:\Users\timbr\OneDrive - swic.edu\264\ExerciseSolutions\CustomerListMVC_simple_1232\CustomerListMVC\obj\Debug\net6.0\CustomerListMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\timbr\OneDrive - swic.edu\264\ExerciseSolutions\CustomerListMVC_simple_1232\CustomerListMVC\obj\Debug\net6.0\CustomerListMVC.RazorAssemblyInfo.cache
+C:\Users\timbr\OneDrive - swic.edu\264\ExerciseSolutions\CustomerListMVC_simple_1232\CustomerListMVC\obj\Debug\net6.0\CustomerListMVC.RazorAssemblyInfo.cs
+C:\Users\timbr\OneDrive - swic.edu\264\ExerciseSolutions\CustomerListMVC_simple_1232\CustomerListMVC\obj\Debug\net6.0\staticwebassets\msbuild.CustomerListMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\timbr\OneDrive - swic.edu\264\ExerciseSolutions\CustomerListMVC_simple_1232\CustomerListMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.CustomerListMVC.props
+C:\Users\timbr\OneDrive - swic.edu\264\ExerciseSolutions\CustomerListMVC_simple_1232\CustomerListMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CustomerListMVC.props
+C:\Users\timbr\OneDrive - swic.edu\264\ExerciseSolutions\CustomerListMVC_simple_1232\CustomerListMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CustomerListMVC.props
+C:\Users\timbr\OneDrive - swic.edu\264\ExerciseSolutions\CustomerListMVC_simple_1232\CustomerListMVC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\timbr\OneDrive - swic.edu\264\ExerciseSolutions\CustomerListMVC_simple_1232\CustomerListMVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\timbr\OneDrive - swic.edu\264\ExerciseSolutions\CustomerListMVC_simple_1232\CustomerListMVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\timbr\OneDrive - swic.edu\264\ExerciseSolutions\CustomerListMVC_simple_1232\CustomerListMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\timbr\OneDrive - swic.edu\264\ExerciseSolutions\CustomerListMVC_simple_1232\CustomerListMVC\obj\Debug\net6.0\scopedcss\bundle\CustomerListMVC.styles.css
+C:\Users\timbr\OneDrive - swic.edu\264\ExerciseSolutions\CustomerListMVC_simple_1232\CustomerListMVC\obj\Debug\net6.0\scopedcss\projectbundle\CustomerListMVC.bundle.scp.css
+C:\Users\timbr\OneDrive - swic.edu\264\ExerciseSolutions\CustomerListMVC_simple_1232\CustomerListMVC\obj\Debug\net6.0\CustomerListMVC.dll
+C:\Users\timbr\OneDrive - swic.edu\264\ExerciseSolutions\CustomerListMVC_simple_1232\CustomerListMVC\obj\Debug\net6.0\refint\CustomerListMVC.dll
+C:\Users\timbr\OneDrive - swic.edu\264\ExerciseSolutions\CustomerListMVC_simple_1232\CustomerListMVC\obj\Debug\net6.0\CustomerListMVC.pdb
+C:\Users\timbr\OneDrive - swic.edu\264\ExerciseSolutions\CustomerListMVC_simple_1232\CustomerListMVC\obj\Debug\net6.0\CustomerListMVC.genruntimeconfig.cache
+C:\Users\timbr\OneDrive - swic.edu\264\ExerciseSolutions\CustomerListMVC_simple_1232\CustomerListMVC\obj\Debug\net6.0\ref\CustomerListMVC.dll
+D:\Class Work\ASP\CustomerListMVCEF\CustomerListMVC\bin\Debug\net6.0\appsettings.Development.json
+D:\Class Work\ASP\CustomerListMVCEF\CustomerListMVC\bin\Debug\net6.0\appsettings.json
+D:\Class Work\ASP\CustomerListMVCEF\CustomerListMVC\bin\Debug\net6.0\CustomerListMVC.staticwebassets.runtime.json
+D:\Class Work\ASP\CustomerListMVCEF\CustomerListMVC\bin\Debug\net6.0\CustomerListMVC.exe
+D:\Class Work\ASP\CustomerListMVCEF\CustomerListMVC\bin\Debug\net6.0\CustomerListMVC.deps.json
+D:\Class Work\ASP\CustomerListMVCEF\CustomerListMVC\bin\Debug\net6.0\CustomerListMVC.runtimeconfig.json
+D:\Class Work\ASP\CustomerListMVCEF\CustomerListMVC\bin\Debug\net6.0\CustomerListMVC.dll
+D:\Class Work\ASP\CustomerListMVCEF\CustomerListMVC\bin\Debug\net6.0\CustomerListMVC.pdb
+D:\Class Work\ASP\CustomerListMVCEF\CustomerListMVC\obj\Debug\net6.0\CustomerListMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Class Work\ASP\CustomerListMVCEF\CustomerListMVC\obj\Debug\net6.0\CustomerListMVC.AssemblyInfoInputs.cache
+D:\Class Work\ASP\CustomerListMVCEF\CustomerListMVC\obj\Debug\net6.0\CustomerListMVC.AssemblyInfo.cs
+D:\Class Work\ASP\CustomerListMVCEF\CustomerListMVC\obj\Debug\net6.0\CustomerListMVC.csproj.CoreCompileInputs.cache
+D:\Class Work\ASP\CustomerListMVCEF\CustomerListMVC\obj\Debug\net6.0\CustomerListMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Class Work\ASP\CustomerListMVCEF\CustomerListMVC\obj\Debug\net6.0\CustomerListMVC.RazorAssemblyInfo.cache
+D:\Class Work\ASP\CustomerListMVCEF\CustomerListMVC\obj\Debug\net6.0\CustomerListMVC.RazorAssemblyInfo.cs
+D:\Class Work\ASP\CustomerListMVCEF\CustomerListMVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\Class Work\ASP\CustomerListMVCEF\CustomerListMVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\Class Work\ASP\CustomerListMVCEF\CustomerListMVC\obj\Debug\net6.0\staticwebassets\msbuild.CustomerListMVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Class Work\ASP\CustomerListMVCEF\CustomerListMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.CustomerListMVC.props
+D:\Class Work\ASP\CustomerListMVCEF\CustomerListMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CustomerListMVC.props
+D:\Class Work\ASP\CustomerListMVCEF\CustomerListMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CustomerListMVC.props
+D:\Class Work\ASP\CustomerListMVCEF\CustomerListMVC\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Class Work\ASP\CustomerListMVCEF\CustomerListMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Class Work\ASP\CustomerListMVCEF\CustomerListMVC\obj\Debug\net6.0\scopedcss\bundle\CustomerListMVC.styles.css
+D:\Class Work\ASP\CustomerListMVCEF\CustomerListMVC\obj\Debug\net6.0\scopedcss\projectbundle\CustomerListMVC.bundle.scp.css
+D:\Class Work\ASP\CustomerListMVCEF\CustomerListMVC\obj\Debug\net6.0\CustomerListMVC.dll
+D:\Class Work\ASP\CustomerListMVCEF\CustomerListMVC\obj\Debug\net6.0\refint\CustomerListMVC.dll
+D:\Class Work\ASP\CustomerListMVCEF\CustomerListMVC\obj\Debug\net6.0\CustomerListMVC.pdb
+D:\Class Work\ASP\CustomerListMVCEF\CustomerListMVC\obj\Debug\net6.0\CustomerListMVC.genruntimeconfig.cache
+D:\Class Work\ASP\CustomerListMVCEF\CustomerListMVC\obj\Debug\net6.0\ref\CustomerListMVC.dll

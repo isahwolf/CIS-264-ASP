@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Class Work\\ASP\\ContactListMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFCDBBC-8116-48BF-B064-6657E764DEE6}|ContactListMVC\\ContactListMVC.csproj|d:\\class work\\asp\\contactlistmvc\\contactlistmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFCDBBC-8116-48BF-B064-6657E764DEE6}|ContactListMVC\\ContactListMVC.csproj|solutionrelative:contactlistmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFCDBBC-8116-48BF-B064-6657E764DEE6}|ContactListMVC\\ContactListMVC.csproj|d:\\class work\\asp\\contactlistmvc\\contactlistmvc\\views\\customer\\customer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AFCDBBC-8116-48BF-B064-6657E764DEE6}|ContactListMVC\\ContactListMVC.csproj|solutionrelative:contactlistmvc\\views\\customer\\customer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFCDBBC-8116-48BF-B064-6657E764DEE6}|ContactListMVC\\ContactListMVC.csproj|d:\\class work\\asp\\contactlistmvc\\contactlistmvc\\contactlistmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0AFCDBBC-8116-48BF-B064-6657E764DEE6}|ContactListMVC\\ContactListMVC.csproj|solutionrelative:contactlistmvc\\contactlistmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFCDBBC-8116-48BF-B064-6657E764DEE6}|ContactListMVC\\ContactListMVC.csproj|d:\\class work\\asp\\contactlistmvc\\contactlistmvc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFCDBBC-8116-48BF-B064-6657E764DEE6}|ContactListMVC\\ContactListMVC.csproj|solutionrelative:contactlistmvc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFCDBBC-8116-48BF-B064-6657E764DEE6}|ContactListMVC\\ContactListMVC.csproj|d:\\class work\\asp\\contactlistmvc\\contactlistmvc\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFCDBBC-8116-48BF-B064-6657E764DEE6}|ContactListMVC\\ContactListMVC.csproj|solutionrelative:contactlistmvc\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFCDBBC-8116-48BF-B064-6657E764DEE6}|ContactListMVC\\ContactListMVC.csproj|d:\\class work\\asp\\contactlistmvc\\contactlistmvc\\models\\fakecustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFCDBBC-8116-48BF-B064-6657E764DEE6}|ContactListMVC\\ContactListMVC.csproj|solutionrelative:contactlistmvc\\models\\fakecustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFCDBBC-8116-48BF-B064-6657E764DEE6}|ContactListMVC\\ContactListMVC.csproj|d:\\class work\\asp\\contactlistmvc\\contactlistmvc\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFCDBBC-8116-48BF-B064-6657E764DEE6}|ContactListMVC\\ContactListMVC.csproj|solutionrelative:contactlistmvc\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFCDBBC-8116-48BF-B064-6657E764DEE6}|ContactListMVC\\ContactListMVC.csproj|d:\\class work\\asp\\contactlistmvc\\contactlistmvc\\models\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFCDBBC-8116-48BF-B064-6657E764DEE6}|ContactListMVC\\ContactListMVC.csproj|solutionrelative:contactlistmvc\\models\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFCDBBC-8116-48BF-B064-6657E764DEE6}|ContactListMVC\\ContactListMVC.csproj|d:\\class work\\asp\\contactlistmvc\\contactlistmvc\\models\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFCDBBC-8116-48BF-B064-6657E764DEE6}|ContactListMVC\\ContactListMVC.csproj|solutionrelative:contactlistmvc\\models\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFCDBBC-8116-48BF-B064-6657E764DEE6}|ContactListMVC\\ContactListMVC.csproj|d:\\class work\\asp\\contactlistmvc\\contactlistmvc\\views\\contact\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AFCDBBC-8116-48BF-B064-6657E764DEE6}|ContactListMVC\\ContactListMVC.csproj|solutionrelative:contactlistmvc\\views\\contact\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactListMVC.csproj",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\ContactListMVC\\ContactListMVC\\ContactListMVC.csproj",
+              "RelativeDocumentMoniker": "ContactListMVC\\ContactListMVC.csproj",
+              "ToolTip": "D:\\Class Work\\ASP\\ContactListMVC\\ContactListMVC\\ContactListMVC.csproj",
+              "RelativeToolTip": "ContactListMVC\\ContactListMVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-11T16:41:05.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\ContactListMVC\\ContactListMVC\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "ContactListMVC\\Controllers\\ContactController.cs",
+              "ToolTip": "D:\\Class Work\\ASP\\ContactListMVC\\ContactListMVC\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "ContactListMVC\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T00:30:04.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerViewModel.cs",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\ContactListMVC\\ContactListMVC\\Models\\CustomerViewModel.cs",
+              "RelativeDocumentMoniker": "ContactListMVC\\Models\\CustomerViewModel.cs",
+              "ToolTip": "D:\\Class Work\\ASP\\ContactListMVC\\ContactListMVC\\Models\\CustomerViewModel.cs",
+              "RelativeToolTip": "ContactListMVC\\Models\\CustomerViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T00:02:47.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cshtml",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\ContactListMVC\\ContactListMVC\\Views\\Customer\\Customer.cshtml",
+              "RelativeDocumentMoniker": "ContactListMVC\\Views\\Customer\\Customer.cshtml",
+              "ToolTip": "D:\\Class Work\\ASP\\ContactListMVC\\ContactListMVC\\Views\\Customer\\Customer.cshtml",
+              "RelativeToolTip": "ContactListMVC\\Views\\Customer\\Customer.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswC4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T23:55:03.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\ContactListMVC\\ContactListMVC\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "ContactListMVC\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Class Work\\ASP\\ContactListMVC\\ContactListMVC\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "ContactListMVC\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAUwCwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T23:54:07.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FakeCustomerRepository.cs",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\ContactListMVC\\ContactListMVC\\Models\\FakeCustomerRepository.cs",
+              "RelativeDocumentMoniker": "ContactListMVC\\Models\\FakeCustomerRepository.cs",
+              "ToolTip": "D:\\Class Work\\ASP\\ContactListMVC\\ContactListMVC\\Models\\FakeCustomerRepository.cs",
+              "RelativeToolTip": "ContactListMVC\\Models\\FakeCustomerRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAiwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T23:50:07.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\ContactListMVC\\ContactListMVC\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ContactListMVC\\Models\\Customer.cs",
+              "ToolTip": "D:\\Class Work\\ASP\\ContactListMVC\\ContactListMVC\\Models\\Customer.cs",
+              "RelativeToolTip": "ContactListMVC\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T23:49:47.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\ContactListMVC\\ContactListMVC\\Program.cs",
+              "RelativeDocumentMoniker": "ContactListMVC\\Program.cs",
+              "ToolTip": "D:\\Class Work\\ASP\\ContactListMVC\\ContactListMVC\\Program.cs",
+              "RelativeToolTip": "ContactListMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T23:47:20.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\ContactListMVC\\ContactListMVC\\Models\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "ContactListMVC\\Models\\SessionExtensions.cs",
+              "ToolTip": "D:\\Class Work\\ASP\\ContactListMVC\\ContactListMVC\\Models\\SessionExtensions.cs",
+              "RelativeToolTip": "ContactListMVC\\Models\\SessionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:03:33.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\ContactListMVC\\ContactListMVC\\Views\\Contact\\Contact.cshtml",
+              "RelativeDocumentMoniker": "ContactListMVC\\Views\\Contact\\Contact.cshtml",
+              "ToolTip": "D:\\Class Work\\ASP\\ContactListMVC\\ContactListMVC\\Views\\Contact\\Contact.cshtml",
+              "RelativeToolTip": "ContactListMVC\\Views\\Contact\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T00:30:38.162Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

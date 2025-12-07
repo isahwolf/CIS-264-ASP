@@ -1,0 +1,15 @@
+﻿
+    Thank you for your feedback.
+    <p>
+        @if (Model.Response < 4 || Model.Efficiency < 4 || Model.Resolution < 4)
+        {
+            @:We're sorry you were less than completely satisfied.
+        }
+        else
+        {
+            @:We're glad you are completely satisfied....
+        }
+    </p>
+
+    <a asp-action="List">See</a> a summary of survey results.
+

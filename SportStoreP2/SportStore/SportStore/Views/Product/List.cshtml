@@ -1,0 +1,11 @@
+﻿@model ProductsListViewModel
+
+
+<div class="col-9">
+    @foreach (var p in @Model.Products)
+    {
+        <partial name="_ProductSummary" model="@p" />
+    }
+    <a asp-action="Cart" asp-controller="Cart">Go to Cart</a>
+</div>
+    

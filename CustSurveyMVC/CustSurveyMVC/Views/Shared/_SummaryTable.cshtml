@@ -1,0 +1,19 @@
+﻿<tr>
+    <th>
+        Resolution
+    </th>
+    <th>
+        ResponseTime
+    </th>
+    <th>
+        TechEfficiency
+    </th>
+</tr>
+@foreach (Survey s in @Model)
+{
+    <tr>
+        <td>@s.Resolution</td>
+        <td>@s.Response</td>
+        <td>@s.Efficiency</td>
+    </tr>
+}

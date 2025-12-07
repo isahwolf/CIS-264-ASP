@@ -1,0 +1,42 @@
+﻿@model Customer
+@{
+    ViewBag.Title = "Edit Customer";
+}
+
+<h2>Edit Customer</h2>
+<form asp-action="Save" method="post">
+    <input type="hidden" name="CustomerID" value="@Model.CustomerID" />
+<div class="row">
+    <label class="control-form-label col-md-2">Email</label>
+    <div class="col-md-10">
+    <input asp-for="Email" class="form-control" />
+    </div>
+</div>
+<div class="row">
+    <label class="control-form-label col-md-2">Last Name</label>
+    <div class="col-md-10">
+    <input asp-for="LastName" class="form-control" />
+    </div>
+</div>
+<div class="row">
+    <label class="control-form-label col-md-2">First Name</label>
+    <div class="col-md-10">
+    <input asp-for="FirstName" class="form-control" />
+    </div>
+</div>
+<div class="row">
+    <label class="control-form-label col-md-2">State</label>
+    <div class="col-md-10">
+    <input asp-for="State" class="form-control" />
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-offset-2 col-md-10">
+        <input type="submit" value="Save" class="btn btn-primary" />
+    </div>
+</div>
+</form>
+<div>
+    <a asp-action="Index" class="btn btn-default">Back to List</a>
+</div>

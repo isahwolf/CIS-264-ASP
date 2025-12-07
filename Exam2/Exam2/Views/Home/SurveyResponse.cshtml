@@ -1,0 +1,28 @@
+﻿@model Survey
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Thanks</title>
+</head>
+<body>
+    Thank you for your feedback.
+    <p>
+        @if (Model.Response < 4 || Model.Efficiency < 4 || Model.Resolution < 4)
+        {
+            @:We're sorry you were less than completely satisfied.
+        }
+        else
+        {
+            @:We're glad you are completely satisfied....
+        }
+    </p>
+
+    <a asp-action="SurveySummary">See</a> a summary of survey results.
+</body>
+</html>

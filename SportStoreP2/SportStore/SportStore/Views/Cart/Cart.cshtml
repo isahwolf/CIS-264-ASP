@@ -1,0 +1,21 @@
+﻿@model ProductsListViewModel
+
+<h2>Your Cart</h2>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Item</th>
+            <th class="text-right">Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model.Products)
+        {
+            <tr>
+                <td class="text-left">@p.Name</td>
+                <td class="text-right">@p.Price.ToString("C")</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a asp-action="List" asp-controller="Product"class="btn btn-primary">Continue Shopping</a>

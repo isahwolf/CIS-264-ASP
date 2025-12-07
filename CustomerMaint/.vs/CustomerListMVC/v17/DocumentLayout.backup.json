@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Class Work\\ASP\\CustomerMaint\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9263753-9096-49B0-A58F-29DA7866BB1D}|CustomerListMVC\\CustomerListMVC.csproj|d:\\class work\\asp\\customermaint\\customerlistmvc\\views\\home\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9263753-9096-49B0-A58F-29DA7866BB1D}|CustomerListMVC\\CustomerListMVC.csproj|solutionrelative:customerlistmvc\\views\\home\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9263753-9096-49B0-A58F-29DA7866BB1D}|CustomerListMVC\\CustomerListMVC.csproj|d:\\class work\\asp\\customermaint\\customerlistmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9263753-9096-49B0-A58F-29DA7866BB1D}|CustomerListMVC\\CustomerListMVC.csproj|solutionrelative:customerlistmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9263753-9096-49B0-A58F-29DA7866BB1D}|CustomerListMVC\\CustomerListMVC.csproj|d:\\class work\\asp\\customermaint\\customerlistmvc\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9263753-9096-49B0-A58F-29DA7866BB1D}|CustomerListMVC\\CustomerListMVC.csproj|solutionrelative:customerlistmvc\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9263753-9096-49B0-A58F-29DA7866BB1D}|CustomerListMVC\\CustomerListMVC.csproj|d:\\class work\\asp\\customermaint\\customerlistmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9263753-9096-49B0-A58F-29DA7866BB1D}|CustomerListMVC\\CustomerListMVC.csproj|solutionrelative:customerlistmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9263753-9096-49B0-A58F-29DA7866BB1D}|CustomerListMVC\\CustomerListMVC.csproj|d:\\class work\\asp\\customermaint\\customerlistmvc\\customerlistmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A9263753-9096-49B0-A58F-29DA7866BB1D}|CustomerListMVC\\CustomerListMVC.csproj|solutionrelative:customerlistmvc\\customerlistmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9263753-9096-49B0-A58F-29DA7866BB1D}|CustomerListMVC\\CustomerListMVC.csproj|d:\\class work\\asp\\customermaint\\customerlistmvc\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9263753-9096-49B0-A58F-29DA7866BB1D}|CustomerListMVC\\CustomerListMVC.csproj|solutionrelative:customerlistmvc\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 115,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\CustomerMaint\\CustomerListMVC\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerListMVC\\Program.cs",
+              "ToolTip": "D:\\Class Work\\ASP\\CustomerMaint\\CustomerListMVC\\Program.cs",
+              "RelativeToolTip": "CustomerListMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T17:42:21.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerListMVC.csproj",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\CustomerMaint\\CustomerListMVC\\CustomerListMVC.csproj",
+              "RelativeDocumentMoniker": "CustomerListMVC\\CustomerListMVC.csproj",
+              "ToolTip": "D:\\Class Work\\ASP\\CustomerMaint\\CustomerListMVC\\CustomerListMVC.csproj",
+              "RelativeToolTip": "CustomerListMVC\\CustomerListMVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-27T17:41:33.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\CustomerMaint\\CustomerListMVC\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CustomerListMVC\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "D:\\Class Work\\ASP\\CustomerMaint\\CustomerListMVC\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "CustomerListMVC\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T02:42:17.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\CustomerMaint\\CustomerListMVC\\Views\\Home\\List.cshtml",
+              "RelativeDocumentMoniker": "CustomerListMVC\\Views\\Home\\List.cshtml",
+              "ToolTip": "D:\\Class Work\\ASP\\CustomerMaint\\CustomerListMVC\\Views\\Home\\List.cshtml",
+              "RelativeToolTip": "CustomerListMVC\\Views\\Home\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T02:40:55.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\CustomerMaint\\CustomerListMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CustomerListMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Class Work\\ASP\\CustomerMaint\\CustomerListMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CustomerListMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA0wEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T02:40:55.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Class Work\\ASP\\CustomerMaint\\CustomerListMVC\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomerListMVC\\Models\\Customer.cs",
+              "ToolTip": "D:\\Class Work\\ASP\\CustomerMaint\\CustomerListMVC\\Models\\Customer.cs",
+              "RelativeToolTip": "CustomerListMVC\\Models\\Customer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T02:52:04.581Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

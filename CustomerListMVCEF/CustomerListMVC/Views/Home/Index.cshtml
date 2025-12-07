@@ -1,0 +1,48 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+    <title>Index</title>
+</head>
+<body>
+    <div class="container">
+        <header class="jumbotron">
+            <h1>Customers</h1>
+        </header>
+        <form asp-action="Index" method="Post">
+            To see only a specific state, enter a state abreviation:
+            <input name="state" type="text" />
+            <button type="submit">Continue</button>
+        </form>
+        <table class="table table-sm table-striped table-bordered">
+            <thead>
+                <tr>
+                    <th>FirstName</th>
+                    <th>LastName</th>
+                    <th>Email</th>
+                    <th>State</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Customer c in Model)
+                {
+                    <tr>
+                        <td>@c.FirstName</td>
+                        <td>@c.LastName</td>
+                        <td>@c.Email</td>
+                        <td>@c.State</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

@@ -1,0 +1,80 @@
+﻿@model CustomerSurveyViewModel
+
+    <form asp-action="SurveyResponse" method="post">
+        <h1>Customer Survey</h1>
+        <h3>Please choose your name:</h3>
+        <select id="cid" name="cid" size="4">
+            @foreach (var c in Model.Customers)
+            {
+                <option value="@c.CustomerID">@c.Name</option>
+            }
+        </select>
+        <div asp-validation-summary="All"></div>
+        <h3>Please rate your satisfaction:</h3>
+
+        <table>
+            <tbody>
+
+                <tr>
+                    <td>Response time:</td>
+                    <td>
+                        <input name="response" id="rblresponse0" type="radio" value="1">
+                        <label for="rblresponse0">Not satisfied</label>
+                    </td>
+                    <td>
+                        <input name="response" id="rblresponse1" type="radio" value="2">
+                        <label for="rblresponse1">Somewhat satisfied</label>
+                    </td>
+                    <td>
+                        <input name="response" id="rblresponse2" type="radio" value="3">
+                        <label for="rblresponse2">Satisfied</label>
+                    </td>
+                    <td>
+                        <input name="response" id="rblresponse3" type="radio" value="4">
+                        <label for="rblresponse3">Completely satisfied</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Technician efficiency:</td>
+                    <td>
+                        <input name="efficiency" id="rblefficiency0" type="radio" value="1">
+                        <label for="rblefficiency0">Not satisfied</label>
+                    </td>
+                    <td>
+                        <input name="efficiency" id="rblefficiency1" type="radio" value="2">
+                        <label for="rblefficiency1">Somewhat satisfied</label>
+                    </td>
+                    <td>
+                        <input name="efficiency" id="rblefficiency2" type="radio" value="3">
+                        <label for="rblefficiency2">Satisfied</label>
+                    </td>
+                    <td>
+                        <input name="efficiency" id="rblefficiency3" type="radio" value="4">
+                        <label for="rblefficiency3">Completely satisfied</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Problem resolution:</td>
+                    <td>
+                        <input name="resolution" id="rblresolution0" type="radio" value="1">
+                        <label for="rblresolution0">Not satisfied</label>
+                    </td>
+                    <td>
+                        <input name="resolution" id="rblresolution1" type="radio" value="2">
+                        <label for="rblresolution1">Somewhat satisfied</label>
+                    </td>
+                    <td>
+                        <input name="resolution" id="rblresolution2" type="radio" value="3">
+                        <label for="rblresolution2">Satisfied</label>
+                    </td>
+                    <td>
+                        <input name="resolution" id="rblresolution3" type="radio" value="4">
+                        <label for="rblresolution3">Completely satisfied</label>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <br>
+        <input name="submitButton" id="submitButton" type="submit" value="Submit">
+
+    </form>

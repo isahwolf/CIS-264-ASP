@@ -1,0 +1,13 @@
+﻿@model ProductsListViewModel
+
+<p>
+    <a class="btn btn-block btn-primary"
+       asp-action="List" asp-controller="Product">Home</a>
+</p>
+@foreach (string c in @Model.Category)
+{
+    <p>
+        <a class="btn btn-block btn-secondary" asp-action="List"
+           asp-controller="Product" asp-route-cat="@c">@c</a>
+    </p>
+}

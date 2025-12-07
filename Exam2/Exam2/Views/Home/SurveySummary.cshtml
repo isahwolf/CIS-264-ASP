@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Survey>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Survey Summary</title>
+</head>
+<body>
+    <h2>Survey Summary</h2>
+    Total respondents: @Model.Count()
+    <hr />
+    <table>
+        <tr>
+            <th>
+                Resolution
+            </th>
+            <th>
+                ResponseTime
+            </th>
+            <th>
+                TechEfficiency
+            </th>
+        </tr>
+        @foreach (Exam2.Models.Survey s in Model)
+        {
+        <tr>
+            <td>@s.Response</td>
+            <td>@s.Efficiency</td>
+            <td>@s.Resolution</td>
+        </tr>
+        }
+    </table>
+    <hr />
+    (4=Completely Satisfied, 1=Not Satisfied, 0=No opinion)
+
+</body>
+</html>
